@@ -14,7 +14,7 @@ Last update: 05/15/2024
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-<!--       <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white"/> -->
+<!--       <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white"/> --
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
 <!--       <img src="https://img.shields.io/badge/Haskell-%235D4F7A.svg?style=flat-square&logo=haskell&logoColor=white"/> ->
     </td>
@@ -51,7 +51,7 @@ Last update: 05/15/2024
   <tr>
     <td>Databases</td>
     <td>
-<!--       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/> -->
+<!--       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/> --
       <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white"/>
 <!--       <img src="https://img.shields.io/badge/Milvus-34A167?style=flat-square&logo=milvus&logoColor=white"/> --
     </td>
