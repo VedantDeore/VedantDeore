@@ -178,6 +178,27 @@ If you're interested in teaming up for a project, feel free to reach out to me! 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
 
+## 📈 Activity Graph
+<div align="center">
+  
+![Snake animation](https://github.com/VedantDeore/VedantDeore/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VedantDeore/VedantDeore/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/VedantDeore/VedantDeore/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/VedantDeore/VedantDeore/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<div align="center">
+  
+### ❤️ Thanks for visiting! Hit ⭐ if you like what you see!
+
+![Thank You GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=vedantdeore&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
